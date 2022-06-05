@@ -183,21 +183,3 @@ html{
     color: aliceblue;
     cursor: pointer;
 }
-/* Footer */
-footer{
-    background-color: black;
-    height: auto;
-    width: 100vw;
-    font-family: sans-serif;
-    padding: 40px;
-    color: aliceblue;
-}
-.Footer-Content{
-    display: flex;
-    align-items: left;
-    justify-content: left;
-    flex-direction: column;
-    text-align: left;
-    font-size: 12px;
-    color:burlywood;
-}
